@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\0 day\0 day\bin\Debug\0 day.exe.config
+C:\Users\Dell\source\repos\0 day\0 day\bin\Debug\0 day.exe
+C:\Users\Dell\source\repos\0 day\0 day\bin\Debug\0 day.pdb
+C:\Users\Dell\source\repos\0 day\0 day\obj\Debug\0 day.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\0 day\0 day\obj\Debug\0 day.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\0 day\0 day\obj\Debug\0 day.exe
+C:\Users\Dell\source\repos\0 day\0 day\obj\Debug\0 day.pdb
